@@ -1,0 +1,14 @@
+D:\APNE PROGRAMS\C# All Programs\bin\Debug\C# All Programs.exe.config
+D:\APNE PROGRAMS\C# All Programs\bin\Debug\C# All Programs.exe
+D:\APNE PROGRAMS\C# All Programs\bin\Debug\C# All Programs.pdb
+D:\APNE PROGRAMS\C# All Programs\obj\Debug\C# All Programs.csproj.AssemblyReference.cache
+D:\APNE PROGRAMS\C# All Programs\obj\Debug\C# All Programs.csproj.CoreCompileInputs.cache
+D:\APNE PROGRAMS\C# All Programs\obj\Debug\C# All Programs.exe
+D:\APNE PROGRAMS\C# All Programs\obj\Debug\C# All Programs.pdb
+D:\APNE PROGRAMS\C#ConsoleApp\bin\Debug\C# All Programs.exe.config
+D:\APNE PROGRAMS\C#ConsoleApp\bin\Debug\C# All Programs.exe
+D:\APNE PROGRAMS\C#ConsoleApp\bin\Debug\C# All Programs.pdb
+D:\APNE PROGRAMS\C#ConsoleApp\obj\Debug\C# All Programs.csproj.AssemblyReference.cache
+D:\APNE PROGRAMS\C#ConsoleApp\obj\Debug\C# All Programs.csproj.CoreCompileInputs.cache
+D:\APNE PROGRAMS\C#ConsoleApp\obj\Debug\C# All Programs.exe
+D:\APNE PROGRAMS\C#ConsoleApp\obj\Debug\C# All Programs.pdb
